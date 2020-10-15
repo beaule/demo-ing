@@ -1,2 +1,2 @@
-# demo-ing
+# sample-app
 Created with CodeSandbox
